@@ -1,0 +1,4 @@
+variables:
+- team: casc-prep
+- admin-user: cwroble-admin
+- manager-user: cwroble
